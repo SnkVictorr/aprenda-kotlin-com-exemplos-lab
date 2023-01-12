@@ -41,6 +41,6 @@ fun main() {
     formacao1.matricular1(user2)
     formacao1.matricular2(user3)
     
-	  formacao1.print1()
+    formacao1.print1()
     formacao1.print2()
 }
